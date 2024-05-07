@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "GgxFxfhXHhK/dsgpStvOg4c1opb+UVQJBie7NQVFujY=",
+  "Source": "LXP.Api",
+  "BasePath": "_content/LXP.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LXP.Api\\wwwroot",
+      "Source": "LXP.Api",
+      "ContentRoot": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\",
+      "BasePath": "_content/LXP.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\06ec8791-c19d-4698-85c3-90a5428773f1_4.png",
+      "SourceId": "LXP.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\",
+      "BasePath": "_content/LXP.Api",
+      "RelativePath": "CourseThumbnailImages/06ec8791-c19d-4698-85c3-90a5428773f1_4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CourseThumbnailImages\\06ec8791-c19d-4698-85c3-90a5428773f1_4.png"
+    },
+    {
+      "Identity": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\263ab7ba-8237-4382-bc10-953c81fa8904_4.png",
+      "SourceId": "LXP.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\",
+      "BasePath": "_content/LXP.Api",
+      "RelativePath": "CourseThumbnailImages/263ab7ba-8237-4382-bc10-953c81fa8904_4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CourseThumbnailImages\\263ab7ba-8237-4382-bc10-953c81fa8904_4.png"
+    },
+    {
+      "Identity": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\CourseThumbnailImages\\6be1f895-db2d-4a87-a7e5-d2288da963f7_4.png",
+      "SourceId": "LXP.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asha.dharmaraj\\Desktop\\Capstone_CourseModule\\Mano_lxp\\Final\\LXP\\LXP.Api\\wwwroot\\",
+      "BasePath": "_content/LXP.Api",
+      "RelativePath": "CourseThumbnailImages/6be1f895-db2d-4a87-a7e5-d2288da963f7_4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CourseThumbnailImages\\6be1f895-db2d-4a87-a7e5-d2288da963f7_4.png"
+    }
+  ]
+}
